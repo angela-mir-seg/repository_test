@@ -6,3 +6,4 @@ replace Outcome = "Live birth" if StudyID == "Goodman 2016"
 
 //Añado un nuevo replace
 //he deshecho el cambio
+

@@ -5,4 +5,6 @@ import excel "C:\Users\bioestadistica\Documents\Proyectos\IPD TLI\DATOS\TLI_MA.x
 replace Outcome = "Live birth" if StudyID == "Goodman 2016"
 
 //Añado un nuevo replace
-//he desheho
+//he deshecho el cambio
+
+//tab Outcpm

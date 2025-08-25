@@ -1,0 +1,5 @@
+//do file con analisis muy importantes
+
+import excel "C:\Users\bioestadistica\Documents\Proyectos\IPD TLI\DATOS\TLI_MA.xlsx", sheet("Sheet1") firstrow clear
+
+replace Outcome = "Live birth" if StudyID == "Goodman 2016"
